@@ -1,0 +1,14 @@
+name: tda-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - gudhi
+  - scipy
+  - tqdm
+  - scikit-learn
+  - shapely
+  - pytorch
